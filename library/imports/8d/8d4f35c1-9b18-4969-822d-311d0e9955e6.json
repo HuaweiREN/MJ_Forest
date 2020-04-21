@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shakeShakeMaskLayerPS",
+    "texture": "93af83fa-53f7-4cd5-933d-86305bfeecb8",
+    "atlas": "46a56c45-3eb9-49b7-aab0-652b679ed340",
+    "rect": [
+      1606,
+      1104,
+      75,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

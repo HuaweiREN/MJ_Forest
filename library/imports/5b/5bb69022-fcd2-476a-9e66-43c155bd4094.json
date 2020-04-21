@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "actiProgressLevel4-5PS",
+    "texture": "93af83fa-53f7-4cd5-933d-86305bfeecb8",
+    "atlas": "46a56c45-3eb9-49b7-aab0-652b679ed340",
+    "rect": [
+      905,
+      321,
+      359,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      359,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

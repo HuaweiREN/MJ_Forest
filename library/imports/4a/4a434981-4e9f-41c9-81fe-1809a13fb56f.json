@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "circuleNoFillPS",
+    "texture": "8a93009e-b754-4d2b-95dd-7c65ea2563bc",
+    "atlas": "6947669b-2865-48e5-8308-425255d7143e",
+    "rect": [
+      166,
+      2,
+      156,
+      156
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

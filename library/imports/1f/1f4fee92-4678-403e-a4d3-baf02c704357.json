@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "marketPS",
+    "texture": "93af83fa-53f7-4cd5-933d-86305bfeecb8",
+    "atlas": "46a56c45-3eb9-49b7-aab0-652b679ed340",
+    "rect": [
+      1143,
+      1104,
+      88,
+      24
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      96,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

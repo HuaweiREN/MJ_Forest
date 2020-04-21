@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "iconPack3.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "add1": {
+      "__uuid__": "ba9abe19-f17b-4cb4-9ef1-c620602ecaed"
+    },
+    "add2": {
+      "__uuid__": "4c8b0299-2ae1-4ae2-a68d-bba305a7ffec"
+    },
+    "add3": {
+      "__uuid__": "818a2f1c-2f87-4b00-be0b-6455b5c340c9"
+    },
+    "add4": {
+      "__uuid__": "e887e3ef-23fb-41c5-9727-bba1738278a6"
+    },
+    "add5": {
+      "__uuid__": "ca21ebf5-81fe-4134-80a8-6256973a1bbb"
+    },
+    "add6": {
+      "__uuid__": "9a9ef765-a043-4ee8-97ab-67e1d7b3a143"
+    },
+    "foodWelfare": {
+      "__uuid__": "db01c1d0-57d9-43a7-8ca4-84bf6d835fdd"
+    },
+    "goldWelfare": {
+      "__uuid__": "55f8770a-6461-4635-9e1d-e600f15fb2e2"
+    },
+    "marketIntro": {
+      "__uuid__": "70210c8f-6e78-4606-9b02-3db58e593b53"
+    },
+    "priceIntro": {
+      "__uuid__": "8adac42a-b221-4e92-bd5d-20c783adb2a7"
+    }
+  }
+}
