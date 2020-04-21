@@ -20,6 +20,7 @@ The mini-game has 3 major systems and 10+ minor subsystems.
 * A demand-supply equilibrium model,  
 * An activity-feedback close loop,  
 * AI (with DQN loaded) robot model.  
+
 **The minor subsystems include:**  
 * A “bank” (where player can deposit and withdraw their gold to gain interest)
 * A “barn” (where player can get their harvest day award)
@@ -83,5 +84,6 @@ By transferring this magic to our case, the AI bots are able to gain some progre
 Note that in this case, Naïve Bayes is difficult to get a decent result because in Naïve Bayes we always assume the conditions are perfectly individual to each other. However, in our case, those conditions (for example, the history price and the news positive level) are usually inter-connected. Without a PCA process it is not easy to distinguish and filter them out.  
 Hence, here it comes with a general scope on this part and DQN AI robot has reached to a decent performance and await for Node.js integration.  
 
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/DQN.PNG)
 
 
