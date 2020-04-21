@@ -6,6 +6,9 @@ Engine: Cocos Creator 2.2.2
 Language: Node.js  
 Author: RHW, JZR  
 Email: ravidren@126.com  
+For applying internal testing authorization, please use WeChat and scan the QR Code down below.  
+
+<img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/QR%20Code.png" width = "200" alt="" align=center />  
 
 ## Introduction
 
@@ -41,14 +44,14 @@ The mini-game has 3 major systems and 10+ minor subsystems.
 ## Demand-supply equilibrium model
 
 In this part, a player is led to an open market where all the players (not only the human player but also the AI bots) are involved. Player are free to invest their resources (gold or food) into a trade pool. When the time approaches to the round ending, the open market would also freeze. The game console would calculate the resources price, according to the amount of gold and food invested into the trade pool, and re-allocate the resources to the players based on the round price calculated.
-The formulas used in trade demand-supply model are:
+The formulas used in trade demand-supply model are:  
 
-
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/formulas_supply_demand_model.PNG)
 
 From those formulas we observed that the price is actually decided by the market tendency, rather than the game administrator, which behaves like a mirror to the real economy in our life. In order to better predict the tendency of the food price, the player probably also would like to refer to the history price and the dynamic price. Hence, the model also has an output to User Interface which indicates the history price in last 5 rounds, as well as the dynamic price.
-Generally speaking, the whole demand-supply equilibrium model follows the data transfer flow shown below:
+Generally speaking, the whole demand-supply equilibrium model follows the data transfer flow shown below:  
 
-
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/supply_demand_model.PNG)
  
 ## Activity-feedback close loop
 
@@ -62,7 +65,7 @@ Besides, under some quasi-reality simulation, pure activity-feedback system woul
 
 Generally, the data transfer flow is shown below.
 
-
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/activity_feedback_model.PNG)
 
 ## AI robot model
 
@@ -80,7 +83,7 @@ The reason us developers abandoned the all connected NN and CNN is because on th
 
 Finally, DQN was transferred from the cart-pole case. The idea to use DQN to solve cart-pole problem is from the paper below:
 
-
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/DQN.PNG)
 
 By transferring this magic to our case, the AI bots are able to gain some progress out of 3 action resources: human player action, random (noob) bot action and Naïve Bayes bot, with NO supervision, which means that the training set dilemma is also overcome. Please check the formulas shown below, to understand the process better.
 
