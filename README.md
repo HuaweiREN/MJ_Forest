@@ -29,4 +29,9 @@ The mini-game has 3 major systems and 10+ minor subsystems.
 * A rank system (where player can check their rank in the friend circle or the whole game world)
 * A feeding system (where player can grow up their pets)
 * A live bell system (where player can shake the live bell and increase the pet liveness)
-* An activity system (where player can assign the activities to their pets and if the activity has been finished successfully, the pet would bring back extra resources)
+* An activity system (where player can assign the activities to their pets and if the activity has been finished successfully, the pet would bring back extra resources)  
+
+Demand-supply equilibrium model
+====
+
+In this part, a player is led to an open market where all the players (not only the human player but also the AI bots) are involved. Player are free to invest their resources (gold or food) into a trade pool. When the time approaches to the round ending, the open market would also freeze. The game console would calculate the resources price, according to the amount of gold and food invested into the trade pool, and re-allocate the resources to the players based on the round price calculated.  
