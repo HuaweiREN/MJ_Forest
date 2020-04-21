@@ -1,0 +1,600 @@
+2020-03-21T12:42:25.664Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-21T12:42:25.741Z - normal: Initializing Asset Database
+2020-03-21T12:42:25.746Z - normal: checking language setting...
+2020-03-21T12:42:25.746Z - normal: Language: zh
+2020-03-21T12:42:26.217Z - success: preview server running at http://localhost:7456
+2020-03-21T12:42:26.221Z - success: protocol editor-framework registered
+2020-03-21T12:42:26.222Z - success: protocol app registered
+2020-03-21T12:42:26.222Z - success: protocol theme registered
+2020-03-21T12:42:26.222Z - success: protocol packages registered
+2020-03-21T12:42:26.222Z - success: protocol uuid registerred
+2020-03-21T12:42:26.222Z - success: protocol db registerred
+2020-03-21T12:42:26.222Z - success: protocol thumbnail registerred
+2020-03-21T12:42:26.222Z - success: protocol unpack registerred
+2020-03-21T12:42:26.222Z - success: protocol disable-commonjs registerred
+2020-03-21T12:42:26.319Z - normal: connected!
+2020-03-21T12:42:26.320Z - normal: Check project C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T12:42:26.322Z - normal: Initializing project C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T12:42:26.342Z - success: adapters loaded
+2020-03-21T12:42:26.346Z - success: asset-db-debugger loaded
+2020-03-21T12:42:26.411Z - success: fb-audience-network loaded
+2020-03-21T12:42:26.440Z - success: fb-live-stream loaded
+2020-03-21T12:42:26.443Z - success: google-play-instant loaded
+2020-03-21T12:42:26.448Z - success: huawei-runtime loaded
+2020-03-21T12:42:26.450Z - success: jkw-adapter loaded
+2020-03-21T12:42:26.451Z - success: jsb-adapter loaded
+2020-03-21T12:42:26.455Z - success: oppo-runtime loaded
+2020-03-21T12:42:26.459Z - success: package-manager loaded
+2020-03-21T12:42:26.460Z - success: qtt-adapter loaded
+2020-03-21T12:42:26.463Z - success: runtime-dev-tools loaded
+2020-03-21T12:42:26.469Z - success: sdkbox loaded
+2020-03-21T12:42:26.472Z - success: ui-kit-preview-extra loaded
+2020-03-21T12:42:26.474Z - success: ui-kit-preview loaded
+2020-03-21T12:42:26.480Z - success: vivo-runtime loaded
+2020-03-21T12:42:26.483Z - success: alipay-minigame loaded
+2020-03-21T12:42:26.530Z - success: assets loaded
+2020-03-21T12:42:26.533Z - success: baidugame-opendata loaded
+2020-03-21T12:42:26.535Z - success: baidugame loaded
+2020-03-21T12:42:26.538Z - success: builder loaded
+2020-03-21T12:42:26.686Z - success: cocos-services loaded
+2020-03-21T12:42:26.694Z - success: console loaded
+2020-03-21T12:42:26.711Z - success: fb-instant-games loaded
+2020-03-21T12:42:26.714Z - success: game-window loaded
+2020-03-21T12:42:26.716Z - success: google-instant-games loaded
+2020-03-21T12:42:26.719Z - success: hierarchy loaded
+2020-03-21T12:42:26.723Z - success: inspector loaded
+2020-03-21T12:42:27.030Z - success: cpk-publish loaded
+2020-03-21T12:42:27.033Z - success: keystore loaded
+2020-03-21T12:42:27.042Z - success: node-library loaded
+2020-03-21T12:42:27.045Z - success: open-recent-items loaded
+2020-03-21T12:42:27.058Z - success: package-asset loaded
+2020-03-21T12:42:27.059Z - success: preferences loaded
+2020-03-21T12:42:27.061Z - success: project-exporter loaded
+2020-03-21T12:42:27.063Z - success: project-importer loaded
+2020-03-21T12:42:27.065Z - success: project-settings loaded
+2020-03-21T12:42:27.080Z - success: qtt-runtime loaded
+2020-03-21T12:42:27.083Z - success: scene loaded
+2020-03-21T12:42:27.084Z - success: simulator-debugger loaded
+2020-03-21T12:42:27.086Z - success: sprite-editor loaded
+2020-03-21T12:42:27.090Z - success: store loaded
+2020-03-21T12:42:27.093Z - success: timeline loaded
+2020-03-21T12:42:27.096Z - success: wechatgame-opendata loaded
+2020-03-21T12:42:27.100Z - success: wechatgame loaded
+2020-03-21T12:42:27.103Z - success: xiaomi-runtime loaded
+2020-03-21T12:42:27.953Z - normal: Initializing Cocos2d
+2020-03-21T12:42:28.406Z - normal: Initializing engine extends
+2020-03-21T12:42:28.655Z - info: Cocos Service load base data!
+2020-03-21T12:42:29.887Z - normal: Loading packages
+2020-03-21T12:42:29.898Z - normal: Watching packages
+2020-03-21T12:42:30.467Z - normal: Run Application
+2020-03-21T12:52:03.502Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\cocos\\MJForestCloud\\test",
+  "debug": false,
+  "dest": "C:\\cocos\\MJForestCloud\\test\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "SwanSubContext",
+    "TypeScript Polyfill"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MJ_Forest",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "a256fcee-60b4-45",
+  "zipCompressJs": true,
+  "project": "C:\\cocos\\MJ_Forest_lastDay\\MJ_Forest_full",
+  "projectName": "MJ_Forest",
+  "debugBuildWorker": false
+}
+2020-03-21T12:52:03.503Z - normal: Building C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T12:52:03.503Z - normal: Destination C:\cocos\MJForestCloud\test\wechatgame
+2020-03-21T12:52:03.561Z - normal: Delete C:\cocos\MJForestCloud\test\wechatgame\**\*,C:\cocos\MJForestCloud\test\wechatgame\subpackages/**/*,!C:\cocos\MJForestCloud\test\wechatgame\game.json,!C:\cocos\MJForestCloud\test\wechatgame\project.config.json,!C:\cocos\MJForestCloud\test\wechatgame\child,!C:\cocos\MJForestCloud\test\wechatgame\child\**\*
+2020-03-21T12:52:34.567Z - normal: Start building assets
+2020-03-21T12:52:34.568Z - normal: Start spawn build-worker
+2020-03-21T12:52:35.208Z - normal: Finish spawn build-worker
+2020-03-21T12:52:35.208Z - normal: Start init build-worker
+2020-03-21T12:52:37.417Z - normal: Finish init build-worker
+2020-03-21T12:52:37.417Z - normal: Start build-assets in worker
+2020-03-21T12:52:38.593Z - normal: Finish build-assets in worker
+2020-03-21T12:52:38.600Z - normal: Finish building assets
+2020-03-21T12:52:38.655Z - normal: Start building plugin scripts
+2020-03-21T12:52:39.378Z - normal: Finish building plugin scripts
+2020-03-21T12:52:40.666Z - normal: Built wechatgame successfully
+2020-03-21T12:55:49.084Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\cocos\\MJForestCloud\\test",
+  "debug": false,
+  "dest": "C:\\cocos\\MJForestCloud\\test\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "SwanSubContext",
+    "TypeScript Polyfill"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MJ_Forest",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "a256fcee-60b4-45",
+  "zipCompressJs": true,
+  "project": "C:\\cocos\\MJ_Forest_lastDay\\MJ_Forest_full",
+  "projectName": "MJ_Forest",
+  "debugBuildWorker": false
+}
+2020-03-21T12:55:49.084Z - normal: Building C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T12:55:49.085Z - normal: Destination C:\cocos\MJForestCloud\test\wechatgame
+2020-03-21T12:55:49.085Z - normal: Delete C:\cocos\MJForestCloud\test\wechatgame\**\*,C:\cocos\MJForestCloud\test\wechatgame\subpackages/**/*,!C:\cocos\MJForestCloud\test\wechatgame\game.json,!C:\cocos\MJForestCloud\test\wechatgame\project.config.json,!C:\cocos\MJForestCloud\test\wechatgame\child,!C:\cocos\MJForestCloud\test\wechatgame\child\**\*
+2020-03-21T12:55:52.973Z - normal: Start building assets
+2020-03-21T12:55:52.973Z - normal: Start spawn build-worker
+2020-03-21T12:55:53.832Z - normal: Finish spawn build-worker
+2020-03-21T12:55:53.832Z - normal: Start init build-worker
+2020-03-21T12:55:56.604Z - normal: Finish init build-worker
+2020-03-21T12:55:56.604Z - normal: Start build-assets in worker
+2020-03-21T12:55:58.458Z - normal: Finish build-assets in worker
+2020-03-21T12:55:58.465Z - normal: Finish building assets
+2020-03-21T12:55:58.536Z - normal: Start building plugin scripts
+2020-03-21T12:55:59.812Z - normal: Finish building plugin scripts
+2020-03-21T12:56:02.110Z - normal: Built wechatgame successfully
+2020-03-21T13:06:20.950Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\cocos\\MJForestCloud\\test",
+  "debug": false,
+  "dest": "C:\\cocos\\MJForestCloud\\test\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "SwanSubContext",
+    "TypeScript Polyfill"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MJ_Forest",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "a256fcee-60b4-45",
+  "zipCompressJs": true,
+  "project": "C:\\cocos\\MJ_Forest_lastDay\\MJ_Forest_full",
+  "projectName": "MJ_Forest",
+  "debugBuildWorker": false
+}
+2020-03-21T13:06:20.951Z - normal: Building C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T13:06:20.951Z - normal: Destination C:\cocos\MJForestCloud\test\wechatgame
+2020-03-21T13:06:20.951Z - normal: Delete C:\cocos\MJForestCloud\test\wechatgame\**\*,C:\cocos\MJForestCloud\test\wechatgame\subpackages/**/*,!C:\cocos\MJForestCloud\test\wechatgame\game.json,!C:\cocos\MJForestCloud\test\wechatgame\project.config.json,!C:\cocos\MJForestCloud\test\wechatgame\child,!C:\cocos\MJForestCloud\test\wechatgame\child\**\*
+2020-03-21T13:06:25.012Z - normal: Start building assets
+2020-03-21T13:06:25.013Z - normal: Start spawn build-worker
+2020-03-21T13:06:25.915Z - normal: Finish spawn build-worker
+2020-03-21T13:06:25.916Z - normal: Start init build-worker
+2020-03-21T13:06:29.055Z - normal: Finish init build-worker
+2020-03-21T13:06:29.055Z - normal: Start build-assets in worker
+2020-03-21T13:06:31.313Z - normal: Finish build-assets in worker
+2020-03-21T13:06:31.321Z - normal: Finish building assets
+2020-03-21T13:06:31.410Z - normal: Start building plugin scripts
+2020-03-21T13:06:32.969Z - normal: Finish building plugin scripts
+2020-03-21T13:06:35.828Z - normal: Built wechatgame successfully
+2020-03-21T13:10:04.188Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\cocos\\MJForestCloud\\test",
+  "debug": false,
+  "dest": "C:\\cocos\\MJForestCloud\\test\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "SwanSubContext",
+    "TypeScript Polyfill"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MJ_Forest",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "a256fcee-60b4-45",
+  "zipCompressJs": true,
+  "project": "C:\\cocos\\MJ_Forest_lastDay\\MJ_Forest_full",
+  "projectName": "MJ_Forest",
+  "debugBuildWorker": false
+}
+2020-03-21T13:10:04.188Z - normal: Building C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T13:10:04.188Z - normal: Destination C:\cocos\MJForestCloud\test\wechatgame
+2020-03-21T13:10:04.189Z - normal: Delete C:\cocos\MJForestCloud\test\wechatgame\**\*,C:\cocos\MJForestCloud\test\wechatgame\subpackages/**/*,!C:\cocos\MJForestCloud\test\wechatgame\game.json,!C:\cocos\MJForestCloud\test\wechatgame\project.config.json,!C:\cocos\MJForestCloud\test\wechatgame\child,!C:\cocos\MJForestCloud\test\wechatgame\child\**\*
+2020-03-21T13:10:08.083Z - normal: Start building assets
+2020-03-21T13:10:08.083Z - normal: Start spawn build-worker
+2020-03-21T13:10:08.941Z - normal: Finish spawn build-worker
+2020-03-21T13:10:08.941Z - normal: Start init build-worker
+2020-03-21T13:10:11.650Z - normal: Finish init build-worker
+2020-03-21T13:10:11.650Z - normal: Start build-assets in worker
+2020-03-21T13:10:13.585Z - normal: Finish build-assets in worker
+2020-03-21T13:10:13.594Z - normal: Finish building assets
+2020-03-21T13:10:13.651Z - normal: Start building plugin scripts
+2020-03-21T13:10:14.757Z - normal: Finish building plugin scripts
+2020-03-21T13:10:16.662Z - normal: Built wechatgame successfully
+2020-03-21T13:13:17.665Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "C:\\cocos\\MJForestCloud\\test",
+  "debug": false,
+  "dest": "C:\\cocos\\MJForestCloud\\test\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "AudioSource",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "EditBox",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mesh",
+    "MotionStreak",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "SwanSubContext",
+    "TypeScript Polyfill"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "MJ_Forest",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "a256fcee-60b4-45",
+  "zipCompressJs": true,
+  "project": "C:\\cocos\\MJ_Forest_lastDay\\MJ_Forest_full",
+  "projectName": "MJ_Forest",
+  "debugBuildWorker": false
+}
+2020-03-21T13:13:17.666Z - normal: Building C:\cocos\MJ_Forest_lastDay\MJ_Forest_full
+2020-03-21T13:13:17.666Z - normal: Destination C:\cocos\MJForestCloud\test\wechatgame
+2020-03-21T13:13:17.667Z - normal: Delete C:\cocos\MJForestCloud\test\wechatgame\**\*,C:\cocos\MJForestCloud\test\wechatgame\subpackages/**/*,!C:\cocos\MJForestCloud\test\wechatgame\game.json,!C:\cocos\MJForestCloud\test\wechatgame\project.config.json,!C:\cocos\MJForestCloud\test\wechatgame\child,!C:\cocos\MJForestCloud\test\wechatgame\child\**\*
+2020-03-21T13:13:21.822Z - normal: Start building assets
+2020-03-21T13:13:21.823Z - normal: Start spawn build-worker
+2020-03-21T13:13:22.747Z - normal: Finish spawn build-worker
+2020-03-21T13:13:22.747Z - normal: Start init build-worker
+2020-03-21T13:13:25.654Z - normal: Finish init build-worker
+2020-03-21T13:13:25.654Z - normal: Start build-assets in worker
+2020-03-21T13:13:27.783Z - normal: Finish build-assets in worker
+2020-03-21T13:13:27.793Z - normal: Finish building assets
+2020-03-21T13:13:27.892Z - normal: Start building plugin scripts
+2020-03-21T13:13:29.339Z - normal: Finish building plugin scripts
+2020-03-21T13:13:31.658Z - normal: Built wechatgame successfully
+2020-03-21T13:21:17.505Z - info: shutdown preview server
