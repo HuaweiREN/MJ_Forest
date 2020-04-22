@@ -122,3 +122,48 @@ There are actually 3 levels of news.
 -	Weak tendency indication. There will be some useful information in news station now and then, which are helpful for player to gain more resources / lose less resources. The appearing frequency is about 10% (without pet interview activity) and 100% (with pet interview activity)  
 -	Strong tendency indication. There will be some quite useful information in news station where the detailed tendency would be directly revealed to the player. With these information, the player will be quite easy to earn extra fortune, for example “there will be a huge amount of gold flow (100,000 gold) into the trade market” will lead player invest more food into the trade market under current round.
 The way the game is set like this is also because the developers want to have a full projection from the game to our reality. We are always willing to know more information in order to make ourselves benefitted by the special investments. We are more or less affected by the news we absorbed and the phenomenon we observed day by day.
+
+## Underground market
+The concept of underground market is together come up with the trade market. In trade market, player are only allowed to put their resources in an open market, and get the feedback from the open market as well. However, player are not able to trade with their friends.  
+
+In order to bring more entertain to the game and to strength the sociality to the game, the developers introduce the underground market. In the underground market, people are allow to raise a trade bill to their specific friends, or even to the whole friend circle. 
+There are mainly 2 advantages with this idea.  
+
+- Player would have more space to manage their resources and more opportunities to communicate with their gaming friends.
+- It is beneficial to the game environment because it invisibly brings widely chance to introduce new players into the game.
+
+Due to the limitation and the privacy protection policy of WeChat friend circle, the developers are not able to get the detailed information of an individual player. Thus, the player has to share the game info to their friends on their own, or they should make their trade scheme public. Either way is a blind box to developers, so player should not worry about a privacy leak problem.
+In MJ_forest game code uploaded in April version, the underground market feature is not included because of the tight developing timing. Will have README.md updated once the feature has been successfully loaded.  
+
+## Welfare system
+The welfare system is also a part of positive feedback award to player. With welfare system, player are able to get some extra food & gold resources, if their hold volume locates in a specific boundary. Currently, the developers set the boundary as “last 30%” of the whole player group. This idea is also easy to understand by the pictures shown below.
+
+In summary, the welfare system indicates a signal to all player that “the more you spend, the larger opportunity you will get some extra awards”. It is also a test to player’s strategy. If you want to earn this amount of award, you have to find some way spend your fortune.
+
+## Calendar system
+The calendar system is designed to project the game time with a fixed relationship to the reality. The reason why the developers not using the real time is because they want to speed up the game round update.  
+
+The projection detail is shown below:  
+- 1 game second = 1 nature second
+- 1 game minute = 1 nature minute
+- 60 game minute = 1 game day = 1 nature hour
+- 24 game day = 1 game month =1 nature day
+- 30/31 game month = 1 game year = 1 nature month
+
+## User task system
+The user task system is aiming at providing some extra resources to player. With some simple tasks, player are able to get food, gold and pet liveness.
+
+The algorithm to detect whether a player has finished the tasks is “code match”. Once the player executed some actions related to the tasks, the system will automatically record a password-like code, and to compare with the task code stored in server. If the two codes match to each other, the award status will turn to “ready”.
+
+For each nature day, user would have 3 tasks awaiting to finish. All the tasks will be refreshed at the beginning of the next day.
+
+## Pet dictionary system
+
+In the internal testing version, play are free to change their pet type. There are four variances now in the game system. Each of them has a unique talent. With the level-up, the pet talent would also be stronger and stronger. The introduction is shown below:  
+- A: The liveness decrease would be slower than the regular consumption.  
+- B: The gold earned in the work activity would be more than the regular value.
+- C: The news activity would probably bring extra news.
+- D: The gold earned in the work activity would be more than the regular value.
+
+Note that the talent value is not revealed until the pet level reaches to a specific level.
+
