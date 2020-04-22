@@ -136,7 +136,11 @@ Due to the limitation and the privacy protection policy of WeChat friend circle,
 In MJ_forest game code uploaded in April version, the underground market feature is not included because of the tight developing timing. Will have README.md updated once the feature has been successfully loaded.  
 
 ## Welfare system
-The welfare system is also a part of positive feedback award to player. With welfare system, player are able to get some extra food & gold resources, if their hold volume locates in a specific boundary. Currently, the developers set the boundary as “last 30%” of the whole player group. This idea is also easy to understand by the pictures shown below.
+The welfare system is also a part of positive feedback award to player. With welfare system, player are able to get some extra food & gold resources, if their hold volume locates in a specific boundary. Currently, the developers set the boundary as “last 30%” of the whole player group. This idea is also easy to understand by the pictures shown below.  
+
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/foodWelfare.png)  
+
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/goldWelfare.png)  
 
 In summary, the welfare system indicates a signal to all player that “the more you spend, the larger opportunity you will get some extra awards”. It is also a test to player’s strategy. If you want to earn this amount of award, you have to find some way spend your fortune.
 
