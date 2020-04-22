@@ -96,7 +96,7 @@ Hence, here it comes with a general scope on this part and DQN AI robot has reac
 The bank system in this game behaves like a supplement institution to the supply-demand model. Those player who are not willing to bet on trade tendency are prone to store their gold resources here because they can also make some fortune in the bank system.
 There are typically 3 actions the player can make in the bank system, including deposit, withdraw and get interest. The formula calculating these values are:  
 
-
+![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/formulas_game_bank.PNG)
 
 Note that the interest rate has to be fetched round by round, rather than automatically added to the deposit volume. This strategy maintains the game entertain but obviously is against with the ground truth in real life.  
 
