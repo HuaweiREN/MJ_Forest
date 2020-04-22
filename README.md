@@ -91,3 +91,34 @@ Note that in this case, Naïve Bayes is difficult to get a decent result because
 
 Hence, here it comes with a general scope on this part and DQN AI robot has reached to a decent performance and await for Node.js integration.
 
+## Game Bank
+
+The bank system in this game behaves like a supplement institution to the supply-demand model. Those player who are not willing to bet on trade tendency are prone to store their gold resources here because they can also make some fortune in the bank system.
+There are typically 3 actions the player can make in the bank system, including deposit, withdraw and get interest. The formula calculating these values are:  
+
+
+
+Note that the interest rate has to be fetched round by round, rather than automatically added to the deposit volume. This strategy maintains the game entertain but obviously is against with the ground truth in real life.  
+
+Also note that the interest rate is a variant under the control of game central information station. Briefly, this variant depends on the news station tendency. Also, if the game info station detects that more and more play are willing to put their gold in the bank and earn the interest, rather than invest them into the trade market, some special cases can happen affecting the interest rate even to negative. If we project this to the reality, it is similar to “bank broken”.
+
+
+## Game Barn
+
+The role of game barn is quite similar to the game bank’s but with the resources “food” rather than the gold. Here player cannot store their food anymore but to receive some food feedback directly, called “harvest day feedback”. There is a fixed period of the harvest day readiness. In MJ_forest, the period is set to 24 hours, which means it is like a daily award to the player where they can enter the game barn and get their daily harvest day award per day.
+
+Different from the gold interest, the harvest day feedback would be reserved continuously until the period is updated, which means even if a player didn’t get the food resources now, they can still get it in next hour.
+
+
+## News Station
+
+In this game, it is not only the player themselves and the bots (numb, Bayes and DQN) are deciding the price in the trade market, but also the game information center. Therefore, the news station is a game institution where the player can get enough information from. 
+For example, if the interest rate is going to downhill with 1% (coordinated by the game info center), the news station would broadcast the daily news like “today the interest rate is going to downhill”, without the specific value. By doing so, player are able to gain some information from news station and avoid the resources loss, and vice versa.
+
+Besides, the news station is also able to broadcast game hints now and then. It is a good opportunity as well for player to read tutorials.
+
+There are actually 3 levels of news. 
+- Game hints. They are mostly appearing on daily news. The game hints include the detailed explanation on the supply-demand model, the activity-feedback model and also the knowledge about the AI bots.  
+-	Weak tendency indication. There will be some useful information in news station now and then, which are helpful for player to gain more resources / lose less resources. The appearing frequency is about 10% (without pet interview activity) and 100% (with pet interview activity)  
+-	Strong tendency indication. There will be some quite useful information in news station where the detailed tendency would be directly revealed to the player. With these information, the player will be quite easy to earn extra fortune, for example “there will be a huge amount of gold flow (100,000 gold) into the trade market” will lead player invest more food into the trade market under current round.
+The way the game is set like this is also because the developers want to have a full projection from the game to our reality. We are always willing to know more information in order to make ourselves benefitted by the special investments. We are more or less affected by the news we absorbed and the phenomenon we observed day by day.
