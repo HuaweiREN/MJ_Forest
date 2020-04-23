@@ -214,9 +214,8 @@ per Workflow, just for reference.
 
 ## Interface Sample  
 
-![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface1.png)
-![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface3.png)
-
+<img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface1.png" width = "200" alt="" align=center /> 
+<img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface3.PNG" width = "200" alt="" align=center /> 
 
 # Ending
 In summary, MJ_forest combined round strategy with education experience. This mixed gaming style is not seen on WeChat mini-game before, but it is indeed feasible and can be a good direction to develop new products/mini-games. Borrowed the sociality advantages from WeChat gaming, we look forward to seeing more and more similar style product coming into the market.
