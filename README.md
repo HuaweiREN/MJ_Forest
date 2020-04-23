@@ -214,7 +214,7 @@ per Workflow, just for reference.
 
 ## Interface Sample  
 
-<img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface1.png" width = "200" alt="" align=center /> 
+<img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface1.png" width = "200" alt="" align=center />
 <img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/interface3.PNG" width = "200" alt="" align=center /> 
 
 # Ending
