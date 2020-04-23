@@ -197,3 +197,14 @@ Live bell system is aiming at bringing player a quick path to restore pet livene
 ## Activity System
 
 The activity system is to make pets become more useful and bring more positive feedback to the players. The activity details are shown below.
+
+
+
+# Ending
+In summary, MJ_forest combined round strategy with education experience. This mixed gaming style is not seen on WeChat mini-game before, but it is indeed feasible and can be a good direction to develop new products/mini-games. Borrowed the sociality advantages from WeChat gaming, we look forward to seeing more and more similar style product coming into the market.
+
+Hence, we would like to release our codes public and hope it can be helpful in your great projects. :D
+
+Wish all you the best.
+Huawei
+
