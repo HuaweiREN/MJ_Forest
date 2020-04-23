@@ -135,7 +135,7 @@ There are mainly 2 advantages with this idea.
 Due to the limitation and the privacy protection policy of WeChat friend circle, the developers are not able to get the detailed information of an individual player. Thus, the player has to share the game info to their friends on their own, or they should make their trade scheme public. Either way is a blind box to developers, so player should not worry about a privacy leak problem.
 In MJ_forest game code uploaded in April version, the underground market feature is not included because of the tight developing timing. Will have README.md updated once the feature has been successfully loaded.  
 
-## Welfare system
+## Welfare System
 The welfare system is also a part of positive feedback award to player. With welfare system, player are able to get some extra food & gold resources, if their hold volume locates in a specific boundary. Currently, the developers set the boundary as “last 30%” of the whole player group. This idea is also easy to understand by the pictures shown below.  
 
 ![image](https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/foodWelfare.png)  
@@ -144,7 +144,7 @@ The welfare system is also a part of positive feedback award to player. With wel
 
 In summary, the welfare system indicates a signal to all player that “the more you spend, the larger opportunity you will get some extra awards”. It is also a test to player’s strategy. If you want to earn this amount of award, you have to find some way spend your fortune.
 
-## Calendar system
+## Calendar System
 The calendar system is designed to project the game time with a fixed relationship to the reality. The reason why the developers not using the real time is because they want to speed up the game round update.  
 
 The projection detail is shown below:  
@@ -154,14 +154,14 @@ The projection detail is shown below:
 - 24 game day = 1 game month =1 nature day
 - 30/31 game month = 1 game year = 1 nature month
 
-## User task system
+## User Task System
 The user task system is aiming at providing some extra resources to player. With some simple tasks, player are able to get food, gold and pet liveness.
 
 The algorithm to detect whether a player has finished the tasks is “code match”. Once the player executed some actions related to the tasks, the system will automatically record a password-like code, and to compare with the task code stored in server. If the two codes match to each other, the award status will turn to “ready”.
 
 For each nature day, user would have 3 tasks awaiting to finish. All the tasks will be refreshed at the beginning of the next day.
 
-## Pet dictionary system
+## Pet Dictionary System
 
 In the internal testing version, play are free to change their pet type. There are four variances now in the game system. Each of them has a unique talent. With the level-up, the pet talent would also be stronger and stronger. The introduction is shown below:  
 - A: The liveness decrease would be slower than the regular consumption.  
@@ -171,3 +171,29 @@ In the internal testing version, play are free to change their pet type. There a
 
 Note that the talent value is not revealed until the pet level reaches to a specific level.
 
+## Rank System
+
+The rank system is also very important to this game because for example, welfare systems are depending on the resources each player owns. Therefore, if a player wants to earn gold & food welfare successfully, they have to come up with a strategy to maintain their hold volume less / fewer than a specific value, comparing with the whole player group. Here, the rank system is the only one and the most important one to take as a reference.
+
+In the game there are multiple resource properties a player has to take care of: gold, food, pet level and pet exp. Accordingly, there will be at least 6 rank list to each player, which are:  
+- Top 20 game world pet level rank players: sorted by pet rank
+- Top 20 game world gold rank players: sorted by gold volume (hold volume + deposit)
+- Top 20 game world food rank players: sorted by food volume
+- Friend circle pet level rank players: sorted by pet rank
+- Friend circle gold rank players: sorted by gold volume (hold volume + deposit)
+- Friend circle food rank players: sorted by food volume  
+
+For each item in the rank list, we have a couple of parameters to convey useful information to the player, including: pet level, pet exp, pet liveness, pet type, gold resources, food resources and the last but the most important, rank.
+
+
+## Feeding System
+
+In order to convey direct positive feedback to player, feeding system is added in the main view. Player are not allowed to upgrade their pet multiple levels with one click because the developers do think level-by-level mode brings more joy in the game.
+
+## Live Bell System
+
+Live bell system is aiming at bringing player a quick path to restore pet liveness. The frequency set by developers in the game is 20 times / hour, with 2 liveness increment.
+
+## Activity System
+
+The activity system is to make pets become more useful and bring more positive feedback to the players. The activity details are shown below.
